@@ -1,0 +1,15 @@
+PODS:
+  - Cartography (1.0.1)
+  - JWSwiftTools (1.1.14)
+
+DEPENDENCIES:
+  - Cartography
+  - JWSwiftTools
+
+SPEC CHECKSUMS:
+  Cartography: c1460e99395b824d9d75360b0382faeb0b33dcd7
+  JWSwiftTools: c07152e274af4fbb834b350fc54ab52369a41f80
+
+PODFILE CHECKSUM: 56fbc25c2c38291f748d2dc3169aee7ca66fbf1e
+
+COCOAPODS: 1.1.1

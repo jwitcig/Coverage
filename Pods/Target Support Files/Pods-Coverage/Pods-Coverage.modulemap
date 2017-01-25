@@ -1,0 +1,6 @@
+framework module Pods_Coverage {
+  umbrella header "Pods-Coverage-umbrella.h"
+
+  export *
+  module * { export * }
+}
